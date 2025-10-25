@@ -1,10 +1,10 @@
 # ⚾ **The Price of Winning: An Analysis of Payroll, Performance, and Efficiency in Major League Baseball**
 
 # 📘 **Project Overview**
-This project explores how payroll spending connects to team performance and efficiency in Major League Baseball from **2000 to 2025**.  
-The main question driving the analysis was simple: **Does spending buy wins?**
+This project looks at how payroll spending relates to team performance and efficiency in Major League Baseball from **2000 to 2025**.  
+It was inspired by the idea behind *Moneyball*: that smart decisions and data-driven strategies can sometimes beat financial power. I wanted to see if that still holds true today, or if the game has changed.
 
-Using Power BI, Python, and Excel, I analyzed how league payrolls have changed over time, how spending relates to success, and which teams manage to achieve more with less. The goal was to uncover patterns that show how financial decisions and on-field results intersect across different eras.
+Using Power BI, Python, and Excel, I explored how payrolls have grown over time, how spending connects to winning, and which teams get the most out of their budgets. The goal was to find out what really drives success in modern baseball, whether it comes from money, management, or something in between.
 
 ---
 
