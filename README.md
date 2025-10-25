@@ -52,10 +52,9 @@ Teams that spend wisely often rival or outperform those with much larger budgets
 ---
 
 # 📂 **Project Structure**
-- **/data:** Cleaned and raw datasets  
 - **/notebooks:** Python notebooks for exploration  
-- **/reports:** Power BI dashboards and exports  
-- **/presentation:** Final slides and project materials  
+- **/power bi dashboard:** Power BI dashboards and exports  
+
 
 ---
 
