@@ -2,7 +2,7 @@
 
 
 
-\## 📘 \*\*Project Overview\*\*
+\# 📘 \*\*Project Overview\*\*
 
 This project explores how payroll spending connects to team performance and efficiency in Major League Baseball from \*\*2000 to 2025\*\*.  
 
@@ -18,7 +18,7 @@ Using Power BI, Python, and Excel, I analyzed how league payrolls have changed o
 
 
 
-\## ❓ \*\*Key Questions\*\*
+\# ❓ \*\*Key Questions\*\*
 
 \- How has league spending changed over time?  
 
@@ -34,7 +34,7 @@ Using Power BI, Python, and Excel, I analyzed how league payrolls have changed o
 
 
 
-\## 🧰 \*\*Tools and Technologies\*\*
+\# 🧰 \*\*Tools and Technologies\*\*
 
 \- \*\*Power BI\*\* for modeling, DAX calculations, and dashboard design  
 
@@ -48,7 +48,7 @@ Using Power BI, Python, and Excel, I analyzed how league payrolls have changed o
 
 
 
-\## 📊 \*\*Data Sources\*\*
+\# 📊 \*\*Data Sources\*\*
 
 \- \*\*Steve the Ump\*\* (compiled from USA Today): Historical MLB payroll data (2000–2025)  
 
@@ -60,7 +60,7 @@ Using Power BI, Python, and Excel, I analyzed how league payrolls have changed o
 
 
 
-\## 💡 \*\*Key Insights\*\*
+\# 💡 \*\*Key Insights\*\*
 
 \- \*\*Payrolls Have Risen Dramatically:\*\* League spending has grown sharply since 2000, widening the gap between large- and small-market teams.  
 
@@ -76,7 +76,7 @@ Using Power BI, Python, and Excel, I analyzed how league payrolls have changed o
 
 
 
-\## 🔍 \*\*Gaps and Future Analysis\*\*
+\# 🔍 \*\*Gaps and Future Analysis\*\*
 
 \- Add \*\*market size data\*\* to better explain payroll differences and efficiency  
 
@@ -92,7 +92,7 @@ Using Power BI, Python, and Excel, I analyzed how league payrolls have changed o
 
 
 
-\## 🏁 \*\*Conclusion\*\*
+\# 🏁 \*\*Conclusion\*\*
 
 Spending plays a clear role in winning, but it isn’t the whole story.  
 
@@ -104,7 +104,7 @@ Teams that spend wisely often rival or outperform those with much larger budgets
 
 
 
-\## 📂 \*\*Project Structure\*\*
+\# 📂 \*\*Project Structure\*\*
 
 \- \*\*/data:\*\* Cleaned and raw datasets  
 
@@ -120,19 +120,9 @@ Teams that spend wisely often rival or outperform those with much larger budgets
 
 
 
-\## 🔗 \*\*How to View the Dashboard\*\*
+\# 🔗 \*\*How to View the Dashboard\*\*
 
-The Power BI dashboard highlights:
-
-\- Payroll trends from 2000–2025  
-
-\- Payroll vs. Wins correlation scatterplots  
-
-\- Efficiency comparisons by team  
-
-\- Key takeaways for spending patterns and performance 
+👉 \[\*\*View the Dashboard Here\*\*](https://app.powerbi.com/view?r=eyJrIjoiNmUwYWE2NjktNWFhOC00MjBkLTljOWQtZGVmM2QyNDA4YTkzIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 
-
-\[View the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNmUwYWE2NjktNWFhOC00MjBkLTljOWQtZGVmM2QyNDA4YTkzIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
