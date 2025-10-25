@@ -12,7 +12,7 @@ Using Power BI, Python, and Excel, I analyzed how league payrolls have changed o
 - How has league spending changed over time?  
 - Does a higher payroll actually lead to more wins?  
 - Which teams use their payroll most efficiently?  
-- How might spending affect fan engagement and attendance? *(planned for future analysis)*  
+- How might spending affect fan engagement and attendance? 
 
 ---
 
