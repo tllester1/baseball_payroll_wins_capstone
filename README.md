@@ -18,7 +18,7 @@ Using Power BI, Python, and Excel, I analyzed how league payrolls have changed o
 
 # 🧰 **Tools and Technologies**
 - **Power BI** for modeling, DAX calculations, and dashboard design  
-- **Python (pandas, matplotlib)** for early data exploration and validation  
+- **Python (pandas)** for early data exploration and validation  
 - **Excel** for data cleaning and preparation  
 
 ---
